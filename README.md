@@ -9,7 +9,7 @@
 - 😄 I love cooking and sports
 - ⚡ Goal: Go to bed early and get up early
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boombb12138)](https://github.com/boombb12138/github-readme-stats)  ![boombb12138's GitHub stats](https://github-readme-stats.vercel.app/api?username=boombb12138&show_icons=true&theme=flag-india)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boombb12138&layout=compact)](https://github.com/boombb12138/github-readme-stats)  ![boombb12138's GitHub stats](https://github-readme-stats.vercel.app/api?username=boombb12138&show_icons=true&theme=gradient)
 
 
 
