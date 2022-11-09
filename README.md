@@ -1,5 +1,4 @@
 
-![68747470733a2f2f726973686176616e616e642e6769746875622e696f2f7374617469632f696d616765732f6772656574696e67732e676966](https://user-images.githubusercontent.com/95857565/200261251-462a996c-29f6-491b-9c4b-3d8bab0ede04.gif)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6D651A&background=FFD28E6E&width=435&lines=Hi%2CI'm+Naomi.+;Glad+to+see+you~)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on React
