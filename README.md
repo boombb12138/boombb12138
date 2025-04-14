@@ -2,10 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6D651A&background=FFD28E6E&width=435&lines=Hi%2CI'm+Naomi.+;Glad+to+see+you~)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on React
-- 🌱 I’m currently learning solidity
-- 💬 Ask me about Dapp develop and my projects
-- 📫 How to reach me: boombb12138@gmail.com
-- 😄 I love cooking and sports
 - ⚡ Goal: Go to bed early and get up early
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boombb12138&layout=compact)](https://github.com/boombb12138/github-readme-stats)  ![boombb12138's GitHub stats](https://github-readme-stats.vercel.app/api?username=boombb12138&show_icons=true&theme=gradient)
